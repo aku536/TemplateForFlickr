@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import flickrDownload
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
